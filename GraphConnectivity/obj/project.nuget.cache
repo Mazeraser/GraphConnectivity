@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "OXyzR65gqI4=",
+  "success": true,
+  "projectFilePath": "/home/philonid/Рабочий стол/Курсовая(Дискретная математика)/GraphConnectivity/GraphConnectivity/GraphConnectivity.csproj",
+  "expectedPackageFiles": [
+    "/home/philonid/.nuget/packages/microsoft.aspnetcore.app.ref/10.0.0/microsoft.aspnetcore.app.ref.10.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,14 @@
+/home/philonid/Рабочий стол/Курсовая(Дискретная математика)/GraphConnectivity/GraphConnectivity/bin/Debug/net10.0/GraphConnectivity
+/home/philonid/Рабочий стол/Курсовая(Дискретная математика)/GraphConnectivity/GraphConnectivity/bin/Debug/net10.0/GraphConnectivity.deps.json
+/home/philonid/Рабочий стол/Курсовая(Дискретная математика)/GraphConnectivity/GraphConnectivity/bin/Debug/net10.0/GraphConnectivity.runtimeconfig.json
+/home/philonid/Рабочий стол/Курсовая(Дискретная математика)/GraphConnectivity/GraphConnectivity/bin/Debug/net10.0/GraphConnectivity.dll
+/home/philonid/Рабочий стол/Курсовая(Дискретная математика)/GraphConnectivity/GraphConnectivity/bin/Debug/net10.0/GraphConnectivity.pdb
+/home/philonid/Рабочий стол/Курсовая(Дискретная математика)/GraphConnectivity/GraphConnectivity/obj/Debug/net10.0/GraphConnectivity.GeneratedMSBuildEditorConfig.editorconfig
+/home/philonid/Рабочий стол/Курсовая(Дискретная математика)/GraphConnectivity/GraphConnectivity/obj/Debug/net10.0/GraphConnectivity.AssemblyInfoInputs.cache
+/home/philonid/Рабочий стол/Курсовая(Дискретная математика)/GraphConnectivity/GraphConnectivity/obj/Debug/net10.0/GraphConnectivity.AssemblyInfo.cs
+/home/philonid/Рабочий стол/Курсовая(Дискретная математика)/GraphConnectivity/GraphConnectivity/obj/Debug/net10.0/GraphConnectivity.csproj.CoreCompileInputs.cache
+/home/philonid/Рабочий стол/Курсовая(Дискретная математика)/GraphConnectivity/GraphConnectivity/obj/Debug/net10.0/GraphConnectivity.dll
+/home/philonid/Рабочий стол/Курсовая(Дискретная математика)/GraphConnectivity/GraphConnectivity/obj/Debug/net10.0/refint/GraphConnectivity.dll
+/home/philonid/Рабочий стол/Курсовая(Дискретная математика)/GraphConnectivity/GraphConnectivity/obj/Debug/net10.0/GraphConnectivity.pdb
+/home/philonid/Рабочий стол/Курсовая(Дискретная математика)/GraphConnectivity/GraphConnectivity/obj/Debug/net10.0/GraphConnectivity.genruntimeconfig.cache
+/home/philonid/Рабочий стол/Курсовая(Дискретная математика)/GraphConnectivity/GraphConnectivity/obj/Debug/net10.0/ref/GraphConnectivity.dll
